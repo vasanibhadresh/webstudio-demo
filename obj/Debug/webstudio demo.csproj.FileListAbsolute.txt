@@ -1,0 +1,10 @@
+D:\Bhadresh\webstudio_demo\webstudio demo\bin\webstudio demo.dll
+D:\Bhadresh\webstudio_demo\webstudio demo\bin\webstudio demo.pdb
+D:\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.csprojResolveAssemblyReference.cache
+D:\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.dll
+D:\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.pdb
+F:\asp\Bhadresh\webstudio_demo\webstudio demo\bin\webstudio demo.dll
+F:\asp\Bhadresh\webstudio_demo\webstudio demo\bin\webstudio demo.pdb
+F:\asp\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.csprojResolveAssemblyReference.cache
+F:\asp\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.dll
+F:\asp\Bhadresh\webstudio_demo\webstudio demo\obj\Debug\webstudio demo.pdb
